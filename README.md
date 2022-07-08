@@ -4,12 +4,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=lucasoliveirads" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dracula&hide_border=false&username=lucasoliveirads" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=0&theme=dracula&hide_border=false&username=lucasoliveirads" height="0" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/89103765?v=4"  />
 
 ###
 
@@ -47,7 +43,8 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/lucasoliveirads/count.svg?"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/lucasoliveirads/count.svg?"  />
+</div>
 
 ###
-Profile Readme Generator
